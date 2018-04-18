@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBlogApp</string>
+    <string name="Login">Login to Account</string>
+    <string name="login_reg">need a new account?..</string>
+    <string name="action_search">Search</string>
+    <string name="action_account_settings">Account Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="reg_password">Confrim Password</string>
+    <string name="already" >Already Have An Account</string>
+    <string name="create">Create an Account</string>
+</resources>
