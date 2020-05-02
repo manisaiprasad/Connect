@@ -1,10 +1,10 @@
 # New-Blog-App
 Android App for bloging
 
-![alt text](./screenshots/1.jpg)
-![alt text](./screenshots/2.jpg)
-![alt text](./screenshots/3.jpg)
-![alt text](./screenshots/4.jpg)
-![alt text](./screenshots/5.png)
-![alt text](./screenshots/6.png)
-![alt text](./screenshots/7.png)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/1.jpg)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/2.jpg)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/3.jpg)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/4.jpg)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/5.png)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/6.png)
+![alt text](https://github.com/manisaiprasad/New-Blog-App/blob/master/screenshorts/7.png)
